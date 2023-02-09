@@ -10,10 +10,8 @@
 
 <h3>Layout</h3>
 
-Layou do desafio no figma 
+Layou do desafio no figma [link](https://efficient-sloth-d85.notion.site/Desafio-Social-Tree-a4008e467a3248c4b05c97cf78aea44f)
  
-![image](https://user-images.githubusercontent.com/116123006/217708821-1b5bb357-dc13-4f0d-890c-ab56e682a3d0.png)
-![image](https://user-images.githubusercontent.com/116123006/217708894-818f271f-f53c-47b5-a57e-13db79cb3caf.png)
-![image](https://user-images.githubusercontent.com/116123006/217708954-da2120c2-bf26-4394-8be7-1ce101757325.png)
-![image](https://user-images.githubusercontent.com/116123006/217708986-c59a5252-ac02-4cea-8155-ef74a786454c.png)
+![image](https://user-images.githubusercontent.com/116123006/217710318-8e60f922-98a9-4a1d-8de8-274b8391f2de.png)
+
 
