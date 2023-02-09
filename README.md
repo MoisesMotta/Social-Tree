@@ -10,6 +10,10 @@
 
 <h3>Layout</h3>
 
-![image](https://user-images.githubusercontent.com/116123006/217125900-a6626577-cb45-4396-af1b-0b29662cd976.png)
+Layou do desafio no figma 
+ 
+![image](https://user-images.githubusercontent.com/116123006/217708821-1b5bb357-dc13-4f0d-890c-ab56e682a3d0.png)
+![image](https://user-images.githubusercontent.com/116123006/217708894-818f271f-f53c-47b5-a57e-13db79cb3caf.png)
+![image](https://user-images.githubusercontent.com/116123006/217708954-da2120c2-bf26-4394-8be7-1ce101757325.png)
+![image](https://user-images.githubusercontent.com/116123006/217708986-c59a5252-ac02-4cea-8155-ef74a786454c.png)
 
- Layou do desafio no figma [link](https://www.figma.com/file/R1LZZdMb1GPgcL2fbsumNP/DD-Social-links-Copy?fuid=1186824649705046525)
